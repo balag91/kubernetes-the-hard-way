@@ -1,6 +1,3 @@
-[![N|Solid](https://images.squarespace-cdn.com/content/v1/5500d9c1e4b0ab7635f213a6/1556212670281-DGVO4CA0ISPBJ1HVX4ZY/ke17ZwdGBToddI8pDm48kJUXUAqMu8PW4a5GT6xyXL9Zw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7TjHkaYfD5WE2gtMQ4su2XplVaMREew83wJrdn7uMAOSXCVianRh2bjOVkXqw-yjBA/appLogoSCE.png) =100x100](http://www.sycamoreinformatics.com/)
-
-
 > This tutorial is a modified version of the original developed by [Kelsey Hightower](https://github.com/kelseyhightower/kubernetes-the-hard-way).
 
 This repository holds the supporting material for the [Certified Kubernetes Administrators Course](https://kodekloud.com/p/certified-kubernetes-administrator-with-practice-tests). There are two major sections. 

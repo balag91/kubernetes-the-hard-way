@@ -1,4 +1,4 @@
-[![N|Solid](https://images.squarespace-cdn.com/content/v1/5500d9c1e4b0ab7635f213a6/1556212670281-DGVO4CA0ISPBJ1HVX4ZY/ke17ZwdGBToddI8pDm48kJUXUAqMu8PW4a5GT6xyXL9Zw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7TjHkaYfD5WE2gtMQ4su2XplVaMREew83wJrdn7uMAOSXCVianRh2bjOVkXqw-yjBA/appLogoSCE.png)](http://www.sycamoreinformatics.com/)
+[![N|Solid](https://images.squarespace-cdn.com/content/v1/5500d9c1e4b0ab7635f213a6/1556212670281-DGVO4CA0ISPBJ1HVX4ZY/ke17ZwdGBToddI8pDm48kJUXUAqMu8PW4a5GT6xyXL9Zw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7TjHkaYfD5WE2gtMQ4su2XplVaMREew83wJrdn7uMAOSXCVianRh2bjOVkXqw-yjBA/appLogoSCE.png?format=10w)](http://www.sycamoreinformatics.com/)
 
 
 
